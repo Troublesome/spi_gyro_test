@@ -1,0 +1,5 @@
+Warning[2058] main.c 128 : call of function without prototype
+Warning[2058] main.c 129 : call of function without prototype
+Warning[2058] main.c 144 : call of function without prototype
+Warning[2058] main.c 150 : call of function without prototype
+Warning[2066] main.c 179 : type qualifier mismatch in assignment
